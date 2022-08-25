@@ -1,19 +1,8 @@
-html, body {
-  height: 100%;
-  width: 100%;
+h1{
+  text-align: center;
 }
 
-.container-menu{
-  float: right;
-  margin-right: 30px;
-  margin-top: 10px;
-}
-
-.astronauta{
-  margin-left: 20px;
-  width: 40px;
-}
-
-.seta{
-  width: 5px;
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
 }

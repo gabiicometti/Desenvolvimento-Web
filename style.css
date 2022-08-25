@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.container-menu{
+  float: right;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.astronauta{
+  margin-left: 20px;
+  width: 40px;
+}
+
+.seta{
+  width: 5px;
+}
